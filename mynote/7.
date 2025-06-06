@@ -1,0 +1,7 @@
+et arr = [2, 4, 6, 8, 10]
+let l=0
+for(let i=0;i<5;i++)
+{
+    l=l+parseInt(arr[i])
+}
+console.log(l)
