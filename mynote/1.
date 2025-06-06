@@ -1,0 +1,2 @@
+let string="42"
+console.log(parseInt(string)+8)
