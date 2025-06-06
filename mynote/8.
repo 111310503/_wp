@@ -1,0 +1,8 @@
+let count = 5
+let arr=[]
+while(count>=0)
+{
+    arr.push(count)
+    count--
+}
+console.log(arr.join(","))
